@@ -1,5 +1,5 @@
 # Projeto landing page ✔
-Meu primeiro contato prático com algumas das tecnologias do Desenvolvimento Web. Esse projeto foi desenvolvido na semana de estudos em Frontend promovida pelo canal Dev em Dobro no Youtube.
+Meu primeiro contato prático com algumas das tecnologias do Desenvolvimento Web. Esse projeto foi desenvolvido na semana de estudos em Frontend promovida pelo canal Dev em Dobro no Youtube. A LP é de uma agência fictícia, que divulga seus projetos, história e contato.
 
 ## Tecnologias utilizadas
 <div style="display: inline_block">
